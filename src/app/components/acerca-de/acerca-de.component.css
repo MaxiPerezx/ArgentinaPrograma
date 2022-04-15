@@ -11,9 +11,9 @@ div{
         position:absolute;
         width: 15%;
         border: #cddff7;
-        box-shadow: 3px 3px 3px grey;
+        box-shadow: 10px 10px 20px grey;
         left: 2%;
-        top: 500px;
+        top: 600px;
     }
 }
 @media (max-width: 576px){
