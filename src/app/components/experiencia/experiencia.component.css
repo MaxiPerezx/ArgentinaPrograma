@@ -1,9 +1,10 @@
 .row{
-    padding: 30px;
+    padding: 40px;
 }
 div{
-    background-color: rgb(158, 202, 240);
+    background-color: ;
 }
-h1, h2{
-    display: inline;
+img{
+    border-radius: 150px;
+    width: 50px;
 }
