@@ -1,10 +1,14 @@
 .row{
-    padding: 40px;
+    padding: 20px;
 }
 div{
     background-color: ;
 }
-img{
-    border-radius: 150px;
-    width: 50px;
+.d-flex img{
+    width: 75px;
+}
+.fondo-card{
+    background-image: url(../../../assets/github.png);
+    background-repeat: no-repeat;
+    background-position: 2% top;
 }
